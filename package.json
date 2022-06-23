@@ -18,9 +18,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HanningtoneM/setup-webpack/issues"
+    "url": "https://github.com/kelomo2502/setup-webpack/issues"
   },
-  "homepage": "https://github.com/HanningtoneM/setup-webpack#readme",
+  "homepage": "https://github.com/kelomo2502/setup-webpack#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
